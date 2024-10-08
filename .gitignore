@@ -61,6 +61,17 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# Django
+db.sqlite3
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+media/
+staticfiles/
+
+
 # Flask stuff:
 instance/
 .webassets-cache
@@ -153,6 +164,31 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Tailwind and Node
+node_modules/
+tailwind.config.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache files
+*.cache
+*.mo
+*.log
+*.db
+*.sqlite3
+
+# Ignore compiled files and output
+output.css
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
