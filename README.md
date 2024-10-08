@@ -1,14 +1,14 @@
 
-# LAB - Class xx  
+# LAB - Class 26 
 **Project**: Django Snacks Project  
-**Author**: [Your Name or Group Name]
+**Author**: Maddie Amelia Lewis
 
 ---
 
 ### Links and Resources
 
 - **Back-end server URL**: N/A (Local development server: `http://127.0.0.1:8000/`)
-- **Front-end application**: N/A (Styled with TailwindCSS/Flowbite for local display)
+- **Front-end application**: N/A (Styled with TailwindCSS for local display)
 
 ---
 
